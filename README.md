@@ -8,11 +8,11 @@
 
 >docker pull sirpixel/cs1.6
 
-#pour exécuter l'image :
+### pour exécuter l'image :
 
 >docker run --restart always -p 29005:29005 -p 29015:29015 -p 29015:29015/udp -v /home/docker/cs16:/home/csserver -itd --name cs16 sirpixel/cs1.6
 
-##<u>Bug rencontré lors de la création de l'image<u>
+##Bug rencontré lors de la création de l'image
 
 *Il est possible que lors de la première installation le répertoire cstrike ne soit pas complet*
 *Pour résoudre ce problème vérifier dans le répertoire "**/home/csserver/serverfiles/steamapps/**" que vous* *avez les fichiers suivant :*
