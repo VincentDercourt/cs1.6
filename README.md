@@ -146,12 +146,14 @@ Vous pouvez retrouver les informations sur le bug lié au téléchargement de **
 
 ### INFORMATION
 
-Vous pouvez nous retrouver sur le forum de la communauté RAGECLIC 
+Vous pouvez nous retrouver sur le forum de la communauté HappyGuard 
 
-[https://www.rageclic.fr/](https://www.rageclic.fr/)
+[https://www.happyguard.fr/](https://www.happyguard.fr/)
 
 ou sur le teamspeak 
 
-[ts3.rageclic.fr](ts3server://ts3.rageclic.fr)
+[ts.happyguard.fr](ts3server://ts.happyguard.fr)
 
 
+### Attention !!!!
+Les ip failover peuvent rendre difficile la visibilité de votre serveur sur les listes steams et les listes de serveurs dans le jeu ou tout autre listes.
